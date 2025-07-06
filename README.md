@@ -35,3 +35,15 @@ Create a `.env` file in the backend with:
 MONGO_URI=your_mongodb_connection
 JWT_SECRET=your_secret_key
 PORT=3000
+
+## 📸 Screenshots
+
+### Chat Window
+![Chat Screen](screenshots/chatsectionpage.png)
+
+### Login Page
+![Login Screen](screenshots/loginpage.png)
+
+### Register page
+![Register Screen] (screenshots/reigsterpage.png)
+
