@@ -47,3 +47,7 @@ PORT=3000
 ### Register page
 ![Register Screen] (screenshots/reigsterpage.png)
 
+## 🚀 Live Demo
+
+You can try the app here:  
+👉 [https://tharun-chatapp.onrender.com](https://tharun-chatapp.onrender.com)
